@@ -1,4 +1,3 @@
-````markdown id="qwe742"
 # Stock Market Intelligence System
 
 Automated multi-asset stock market intelligence system with signal generation, adaptive risk management, backtesting, GitHub Actions automation, and Telegram reporting.
@@ -244,5 +243,4 @@ It does not provide financial advice.
 
 All trading decisions and risk management remain the responsibility of the user.
 
-```
-```
+
