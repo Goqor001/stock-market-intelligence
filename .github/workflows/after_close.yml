@@ -3,7 +3,7 @@ name: After Close Pipeline
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 21 * * 1-5"
+    - cron: "15 20 * * 1-5"
 
 jobs:
   run-after-close:
