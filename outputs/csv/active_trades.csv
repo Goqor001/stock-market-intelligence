@@ -1,0 +1,2 @@
+symbol,signal_date,signal,action,entry_date,entry_price,risk_distance,stop_loss,take_profit,rr,recommended_n,status,created_at
+NVDA,2026-05-14,strong_bullish_move,BUY,2026-05-15,229.76,7.79,221.97,245.34,1:2,15,ACTIVE,2026-05-27 21:25:30

@@ -1,0 +1,21 @@
+=== DAILY MARKET REPORT ===
+
+Generated at: 2026-05-27 21:26:28
+
+=== STRATEGY SUMMARY ===
+Recommended N: 15.0 days
+Winrate: 78.42%
+Avg Return: 4.48%
+Total Return: 1080.16%
+
+=== LATEST SIGNALS ===
+- TSLA | strong_bullish_move
+ Action: BUY
+ Confidence: HIGH
+ Signal Date: 2026-05-08
+ Entry Date: 2026-05-11
+ Entry Price: 422.16
+ Stop Loss: 407.93
+ Take Profit: 450.62
+ Recommended Holding: 15.0 days
+

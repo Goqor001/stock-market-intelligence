@@ -1,0 +1,6 @@
+n_days,total_trades,tp_hits,sl_hits,expired,no_data,avg_return,median_return,total_return,expired_avg_return,expired_total_return,winrate,best_n_by_total_return,best_n_by_avg_return,recomended_n
+3,241,142,25,74,0,4.09,4.64,985.14,2.81,208.28,58.92,15,10,15
+5,241,168,31,42,0,4.38,4.74,1055.84,2.42,101.43,69.71,15,10,15
+7,241,176,37,28,0,4.38,4.96,1056.25,2.68,75.12,73.03,15,10,15
+10,241,182,42,17,0,4.48,5.02,1079.52,3.94,66.96,75.52,15,10,15
+15,241,189,44,8,0,4.48,5.05,1080.16,0.57,4.6,78.42,15,10,15

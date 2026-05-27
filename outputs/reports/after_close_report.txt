@@ -1,0 +1,11 @@
+=== AFTER CLOSE SIGNAL REPORT ===
+
+Generated at: 2026-05-27 21:25:20
+
+=== PENDING SIGNALS ===
+- NVDA | strong_bullish_move
+ Action: BUY_WATCH
+ Status: PENDING_ENTRY
+ Signal Date: 2026-05-14
+ Entry: next market open
+

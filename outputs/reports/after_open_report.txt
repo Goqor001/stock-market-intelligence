@@ -1,0 +1,16 @@
+=== AFTER OPEN ENTRY REPORT ===
+
+Generated at: 2026-05-27 21:25:31
+
+=== ENTRY CONFIRMED ===
+-- NVDA | strong_bullish_move
+  Action: BUY
+  Status: ACTIVE
+  Signal Date: 2026-05-14
+  Entry Date: 2026-05-15
+  Entry Price: 229.76
+  Stop Loss: 221.97
+  Take_profit 245.34
+  RR: 1:2
+  Recommended Holding: 15 days
+
